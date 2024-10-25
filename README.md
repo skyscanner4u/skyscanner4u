@@ -1,9 +1,7 @@
 ## Welcome 👋
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
- <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
- <img alt="CH QASIM RAZA" src="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
-</picture>
+![Ch Qasim Raza](https://github.com/user-attachments/assets/774ff942-c96e-44a1-b461-0889e38d42bc)
+
+My name is <b>Ch Qasim Raza </b> . Presently studying MS Cyber Security at Air University , Islamabad Pakistan.
 <!--
 **skyscanner4u/skyscanner4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
