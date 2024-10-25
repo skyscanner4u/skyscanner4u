@@ -1,7 +1,7 @@
 ## Welcome 👋
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
+ <source media="(prefers-color-scheme: light)" srcset="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
  <img alt="CH QASIM RAZA" src="https://drive.google.com/file/d/1nMVWKGDjtOOdQ2LwC2wZaC0KLemORRHP">
 </picture>
 <!--
