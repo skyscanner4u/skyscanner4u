@@ -3,7 +3,7 @@
 ![Ch Qasim Raza](https://github.com/user-attachments/assets/774ff942-c96e-44a1-b461-0889e38d42bc)
 
 My name is <b>Ch Qasim Raza </b> . Presently studying MS Cyber Security at Air University , Islamabad Pakistan.
-![My Profile Pic](https://drive.google.com/drive/u/0/folders/13WX4j3lcXpKleKd_5h-pZzhO41nb4xpN)
+![My Profile Pic](https://github.com/user-attachments/assets/5febd994-2f55-4591-a45c-b3c3fff32d6c)
 <img src="https://tryhackme-badges.s3.amazonaws.com/skyscanner4u.png" alt="Ch Qasim Raza THM Badge" />
 
 💬 Ask me about 
@@ -18,6 +18,7 @@ My name is <b>Ch Qasim Raza </b> . Presently studying MS Cyber Security at Air U
 -OpSec
 
 📫 How to reach me:
+
 [Whatsapp]
 [instagram]
 [Discord]
